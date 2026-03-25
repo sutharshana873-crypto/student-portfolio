@@ -1,0 +1,9 @@
+This is my first GitHub repository created as part of an academic activity.
+
+I am learning how to use GitHub for version control and project management.
+
+Skills:
+- Basic programming knowledge
+- Interest in learning new technologies
+
+Thank you.
